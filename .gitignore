@@ -16,6 +16,7 @@ MANIFEST.MF
 .classpath
 .settings/
 .metadata/
+.recommenders/
 # Generated eclipse files
 feature.xml
 feature.properties
