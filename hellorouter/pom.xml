@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hashnet</groupId>
-	<artifactId>hellofilter</artifactId>
+	<artifactId>hellorouter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>hellofilter</name>
+	<name>hellorouter</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
